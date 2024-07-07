@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ga+Maamli&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+body{
+    background-image:url("https://th.bing.com/th/id/R.67452fe686094d8e08582bd72942e20e?rik=ZPZzN6NiiAd9pQ&riu=http%3a%2f%2fwww.scaryforkids.com%2fpics%2fmysteries-of-the-world.jpg&ehk=w6JQj8FjlGEKH8l3QCFgFc73ubEjohEM%2fO%2fsw%2fs1l0k%3d&risl=&pid=ImgRaw&r=0") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: larger;
+    color: rgba(242, 240, 250, 0.868);
+    margin-top: 100px;
+}
+#search-button{
+    width: 70px;
+    height: 20px;
+    background-color: rgb(4, 11, 105);
+    color: rgb(245, 240, 240);
+    border: 2px ;
+    font-size: medium;
+}
